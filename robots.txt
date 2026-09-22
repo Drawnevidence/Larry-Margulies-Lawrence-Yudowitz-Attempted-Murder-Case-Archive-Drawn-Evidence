@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drawnevidence.github.io/drawn-evidence-public-preservation-archive/sitemap.xml
